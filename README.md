@@ -119,7 +119,7 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://github.com/MohamedMokhtaar" target="_blank">
+<a href="https://github.com/mohamukhtar" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://linkedin.com/in/mohamed-mukhtar-muhudiin-878834407" target="_blank">
